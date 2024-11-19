@@ -2,7 +2,17 @@
 
 **`Analista QA`**
 
-Me chamo Romildo Junior, tenho 39 anos e sou natural de Curitiba-PR. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCPR. Sou apaixonado por tecnologia e estou sempre realizando novos cursos para engrandecer o conhecimento e assim poder entregar o melhor trabalho. 
+Me chamo Romildo Junior, tenho 39 anos e sou natural de Curitiba-PR. 
+
+Com 8 anos de experiência de Analista de QA, minha trajetória profissional inclui passagens por empresas de grande porte, como Rumo Logística, ART, AmBev, CFM-Sul, e Progress Rail, onde desenvolvi expertise em garantir a qualidade dos processos, trabalhar em equipes multidisciplinares e gerenciar projetos de grande impacto.
+
+Iniciei minha carreira na Rumo Logística, onde fui reconhecido como Melhor Controlador de Trens do Centro de Controle Operacional em 2012, o que me impulsionou à promoção de Supervisor do CCO. Em seguida, ampliei minha experiência no setor logístico e de qualidade ao atuar como Analista de QA na CFM-Sul em Moçambique, participando de desafios internacionais e colaborando em um ambiente dinâmico e desafiador.
+
+Na AmBev, fui promovido rapidamente de Analista para Supervisor de Logística e depois para Coordenador de Logística e Estoque, onde pude liderar equipes e implementar melhorias contínuas, sempre focado na eficiência operacional. Na Progress Rail, desempenhei a função de Analista de QA, contribuindo para diversos projetos, realizando treinamentos e prestando suporte direto aos clientes, sempre com foco na excelência e na melhoria contínua.
+
+Minha busca constante por aprimoramento é uma das minhas maiores qualidades. Sempre em busca de novos conhecimentos, tenho investido em cursos na área de testes e programação, o que me permite trazer inovação e qualidade aos projetos que gerencio.
+
+Sou uma pessoa focada, determinada e com forte habilidade de comunicação. Acredito no trabalho em equipe como ferramenta essencial para alcançar os melhores resultados. Busco sempre entregar um trabalho de alta qualidade, focando na solução de problemas e no aprimoramento contínuo dos processos. 
 
 ---
 
